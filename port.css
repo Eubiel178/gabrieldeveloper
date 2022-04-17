@@ -1,21 +1,30 @@
 .nav-bar {
     margin-bottom: 40px;
 }
+
 .card {
     margin-bottom: 20px;
 }
+
 li {
     margin-bottom: 14px;
 }
+
+.link {
+    padding: 0.2em;
+}
+
 .link:hover {
     background-color: black;
     color: white;
     border-radius: 2px;
 }
+
 .text {
     text-align: justify;
     max-width: 81%;
 }
+
 .me {
     position: sticky;
 
